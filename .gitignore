@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+.vscode/
+.pytest_cache/
+*.m
+/plugins/Keithley/IVLS_DLT_dummy.m
+pyIVLS.ini.old
+.ruff_cache
+pyIVLS.log
+*.log
+*.csv
+*.dat
+pyIVLS.ini
+!ivls_data.dat
+!plugins/Keithley2612B/ivls_data.dat
